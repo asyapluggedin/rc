@@ -114,9 +114,9 @@ Things I'm interested in that I won't have the time to focus on at RC:
 ## Background
 ### Describe your programming background in a few sentences.
 
-I'm a designer whose primary experience with programming is in front-end web development and creative coding with Processing and Python.
+> I'm a designer whose primary experience with programming is in front-end web development and creative coding with Processing and Python.
 
-Both my education and work have demanded more focus on visual design, so my programming skills have gotten rather rusty.
+> Both my education and work have demanded more focus on visual design, so my programming skills have gotten rather rusty.
 
 ### Have you worked professionally as a programmer?
 
