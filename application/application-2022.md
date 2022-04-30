@@ -11,7 +11,9 @@ ___
 Please include any that you have: GitHub, LinkedIn, personal web site, etc.
 
 >https://github.com/asyapluggedin
+
 >https://www.linkedin.com/in/asyapluggedin/
+
 >https://asyaplugged.in/
 
 ### Code CracklePop
