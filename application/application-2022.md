@@ -32,19 +32,16 @@ for (let i = 1; i <= 100; i++) {
 ### Please link to a program you've written from scratch.
 
 > https://github.com/asyapluggedin/rotoshop
-> or
-> https://github.com/asyapluggedin/process
-> need to ensure it compiles lol
 
 ### What is the most fascinating thing you've learned in the past month?
 
 > I've been pretty fascinated with Plan 9! 
 > 
-> I was researching various clocks, for a time zone converting web app project I decided to make for polishing up my rusty javascript. On Are.na, I found some images of the Kit-Kat clock, and thought it would be a cute addition to my website, to have it in the background, syncing with the output time. I spent some time drawing my own Kit-Kat .svg and then felt compelled to look up if anyone had already made a digital cat clock, and found out that an actual Kit-Kat clock was part of the Plan 9 operating system way back in '92! 
+> I was researching various clocks, for a time zone converting web app project I decided to make for polishing up my rusty javascript. On Are.na, I found some images of the Kit-Kat clock, and thought it would be a cute addition to my website, to have it in the background, syncing with the output time. I spent some time drawing my own Kit-Kat .svg and then felt compelled to look up if anyone had already made a digital cat clock, and found out that an actual Kit-Kat clock program was part of the Plan 9 operating system way back in '92! 
 > 
 > The screenshots of the OS absolutely charmed me, and I spent several nights figuring out how to get Plan 9 to run on one of my old laptops. This all turned into a whole rabbit hole of learning more about Bell Labs, the history of UNIX, Rob Pike's work with Go, and Reneé French's art. 
 > 
-> I had a lot of fun learning about 'vintage' operating systems, and spent an evening with my partner taking turns answering absurd prompts like "what kind of operating system would you design for a spider". (If you were wondering, a web-based one.)
+> I had a lot of fun learning about "vintage" operating systems, and spent an evening with my partner taking turns answering absurd prompts like "what kind of operating system would you design for a spider". (If you were wondering, a web-based one.)
 
 ### What do you want to be doing in two years?
 
@@ -57,11 +54,11 @@ for (let i = 1; i <= 100; i++) {
 ### Why do you want to attend RC? How would attending RC be different than working on your own?
 
 > I'm most excited about the RC community. 
-> While I could work on my own, join a self-learning discord community, or attend a bootcamp (and I have done variations of all three), I notice that knowledge & skills aren't very "sticky" unless I am continuously surrounded by people who are focused on learning. I feel very much aligned with RC's 'never graduate' motto.
+> While I could work on my own, join a self-learning discord community, or attend a bootcamp (and I have done variations of all three), I notice that knowledge & skills aren't very "sticky" unless I am continuously surrounded by people who are focused on learning. I feel very much aligned with RC's "never graduate" motto.
 > 
 > I also agree with the self-directed approach.
-> As a person with ADHD, I have spent a lot of time thinking about productivity & learning "hacks", as well as motivations for learning. The approaches at RC are consistent with what works for me – pair programming, spontaneously changing course, showing up every day to work at the 'edge of my abilities.
-> I've spent a lot of time attending traditional academic institutions, and some time teaching children programming – both experiences have radicalized me towards 'unschooling'. 
+> As a person with ADHD, I have spent a lot of time thinking about productivity & learning "hacks", as well as motivations for learning. The approaches at RC are consistent with what works for me – pair programming, spontaneously changing course, showing up every day to work at the "edge of my abilities".
+> I've spent a lot of time attending traditional academic institutions, and some time teaching children programming – both experiences have radicalized me towards "unschooling". 
 > 
 > Finally, there's the career bit. 
 > I work as a designer, and miss media art school, particularly when I got to program – so I'd really like to get back into the swing of creative coding, and move towards calling myself a "design engineer", rather than an interface designer. I'd also be delighted to work alongside RC alumni, either already existing ones, or the ones you haven't even met yet :)
@@ -74,6 +71,7 @@ Deep dive into JavaScript
 > - Finish Eloquent JavaScript book
 > - Make a browser game that trains you to guess color values in RGB, HSB, etc
 > - Make my savefrys.com project look non-embarrassing
+> - Finish my cat clock time zone converting website
 > - TypeScript project
 > - PureScript project
 
@@ -86,10 +84,9 @@ Swift
 > - Go through [100 days of swift ui](https://www.hackingwithswift.com/100/swiftui)
 
 Misc
-> - Live coding for algoraves
 > - Get a lot better at command line
-> - Discord.py
 > - Get a lot better at python
+> - Discord.py
 
 Contributions
 > - Give a mini-talk or workshop on creative coding
@@ -100,16 +97,18 @@ Contributions
 Things I'm interested in that I won't have the time to focus on at RC:
 
 > - vintage operating systems, playing with them, hacking around in them
-> - creative tools, making them, adding to the open source kind
+> - creative tools, making them, contributing to the open source ones
+> - learn about image compression
 > - hardware controllers
-> - electrical engineering (simply curious)
+> - electrical engineering
 > - teach myself how to make a radio
-> - contribute to to more open source projects
+> - publish a diy smarthome handbook
 > - imagine my own js library
 > - make art in conways game of life
 > - learn blender
 > - build basic things in Rust, Go, Solidity
 > - Figure out how Vercel works
+
 
 ## Background
 ### Describe your programming background in a few sentences.
