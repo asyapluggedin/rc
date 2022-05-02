@@ -21,7 +21,7 @@ Please include any that you have: GitHub, LinkedIn, personal web site, etc.
 https://codepen.io/asyapluggedin/pen/YzeKVOY?editors=0011
 or
 ```js 
-for (let i = 1; i <= 100; i++) {
+for (i = 1; i <= 100; i++) {
   let result = '';
   if (i % 3 === 0) result += 'Crackle';
   if (i % 5 === 0) result += 'Pop';
