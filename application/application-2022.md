@@ -53,7 +53,11 @@ REDACTED
 > 
 > I also agree with the self-directed approach.
 > As a person with ADHD, I have spent a lot of time thinking about productivity & learning "hacks", as well as motivations for learning. The approaches at RC are consistent with what works for me – pair programming, spontaneously changing course, showing up every day to work at the "edge of my abilities".
-> I've spent a lot of time attending traditional academic institutions, and some time teaching children programming – both experiences have radicalized me towards "unschooling". <sup>EDIT FROM 2024: I have educated myself more on the topic of unschooling and do not support it any longer. I am keeping my application up as I originally wrote and sent it to RC.</sup>
+> I've spent a lot of time attending traditional academic institutions, and some time teaching children programming – both experiences have radicalized me towards "unschooling".<sup>see edit below</sup>
+
+```markdown
+EDIT FROM 2024: I have educated myself more on the topic of unschooling and do not support it any longer. I am keeping my application up as I originally wrote and sent it to RC.
+```
 > 
 > Finally, there's the career bit. 
 > I work as a designer, and miss media art school, particularly when I got to program – so I'd really like to get back into the swing of creative coding, and move towards calling myself a "design engineer", rather than an interface designer. I'd also be delighted to work alongside RC alumni, either already existing ones, or the ones you haven't even met yet :)
